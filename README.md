@@ -16,17 +16,18 @@ This configuration represents an improved version of the hyprlandHyDE project, a
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/meta/logo-flat-128.png" alt="Hyprland" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/53890219?s=200&v=4" alt="Waybar" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/.github/kitty-128.png" alt="Kitty" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/davatorium/rofi/next/icons/hicolor/128x128/apps/rofi.png" alt="Rofi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/KDE/dolphin/master/icons/128-apps-org.kde.dolphin.png" alt="Dolphin" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/512px-Firefox_logo%2C_2019.svg.png" alt="Firefox" width="40" height="40"/>
-  <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/512px-Linux_Mint_logo_without_wordmark.svg.png" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dunst-project/dunst/master/docs/dunst-logo.png" alt="Dunst" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo-medium.png" alt="Tmux" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/44215127?s=200&v=4" alt="Waybar" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty-128.png" alt="Kitty" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/adi1090x/rofi/master/images/logo.png" alt="Rofi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/KDE/breeze-icons/master/icons/apps/48/org.kde.dolphin.svg" alt="Dolphin" width="40" height="40"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://design.firefox.com/product-identity/firefox/firefox/firefox-logo.png" alt="Firefox" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="40" height="40"/>
+  <img src="https://dunst-project.org/static/dunst.png" alt="Dunst" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/12054114?s=200&v=4" alt="Tmux" width="40" height="40"/>
 </p>
+
 
 ## 🌟 Features
 
